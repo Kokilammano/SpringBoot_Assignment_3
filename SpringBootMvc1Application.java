@@ -1,4 +1,4 @@
-//Spring Boot MVC Project 
+//Spring Boot MVC Project to implement Request Mapping 
 
 package com.abc;
 
